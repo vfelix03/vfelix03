@@ -1,4 +1,4 @@
- 👋 Vitor Felix
+ 👋 Vitor Felix <br>
  💼 I’m currently working at BVR ...
 
 <!---
