@@ -1,5 +1,5 @@
-- 👋 Vitor Felix
-- 💼 I’m currently working at BVR ...
+ 👋 Vitor Felix
+ 💼 I’m currently working at BVR ...
 
 <!---
 vfelix03/vfelix03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
